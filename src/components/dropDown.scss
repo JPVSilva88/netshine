@@ -1,0 +1,12 @@
+.dropdown {
+  width: 200px;
+  height: 35px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #bdbdbd;
+  background: white;
+
+  &:disabled {
+    background: #e4e4e4;
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "generator-react-webpack": {
+    "appName": "netshine",
+    "style": "sass",
+    "cssmodules": false,
+    "postcss": false,
+    "generatedWithVersion": 4
+  }
+}
