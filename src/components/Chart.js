@@ -23,7 +23,7 @@ class Chart extends React.Component {
       bindto: '#chart',
       data: {
         columns: [upload, download],
-        type: 'spline'
+        type: 'line'
       },
       axis: {
         x: {
